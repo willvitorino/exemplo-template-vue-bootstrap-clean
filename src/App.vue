@@ -54,7 +54,7 @@ export default {
         width: 100%;
         overflow-y: scroll;
         background-color: whitesmoke;
-        
+
         > .footer {
           width: 100%;
           padding: 0.25rem 1rem;
